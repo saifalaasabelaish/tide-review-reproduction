@@ -2,7 +2,7 @@
 
 A seminar report reviewing and reproducing **"Long-term Forecasting with TiDE: Time-series Dense Encoder"** (Das et al., ICLR 2024), written for the *Data Analytics Seminar I* at ISMLL, Universität Hildesheim.
 
-📄 [Read the full report](report/tide_report.pdf) · 📓 [Reproduction notebook](notebook/tide_reproduction.ipynb)
+📄 [Read the full report](report/tide_paper_report.pdf) · 📓 [Reproduction notebook](notebook/tide_reproduction.ipynb)
 
 ## What's in this repo
 
